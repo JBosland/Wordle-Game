@@ -1,2 +1,2 @@
 # Wordle-Game
-Final project for computing Fundamentals
+Final project for Computing Fundamentals
